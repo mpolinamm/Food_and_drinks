@@ -1,0 +1,38 @@
+<fav_food>
+    <food>
+        <name>Spaghetti bolognese</name>
+        <type>Pasta</type>
+        <cuisine>Italian</cuisine>
+        <rating>1</rating>
+    </food>
+    <food>
+        <name>Filadelfia roll</name>
+        <type>Sushi</type>
+        <cuisine>Japanese</cuisine>
+        <rating>2</rating>
+    </food>
+    <food>
+        <name>Vareniki with potato</name>
+        <type>Vareniki</type>
+        <cuisine>Ukrainian</cuisine>
+        <rating>3</rating>
+    </food>
+    <food>
+        <name>Cesar salad</name>
+        <type>Salad</type>
+        <cuisine>Mexican</cuisine>
+        <rating>4</rating>
+    </food>
+    <food>
+        <name>Pizza diavola</name>
+        <type>Pizza</type>
+        <cuisine>Italian</cuisine>
+        <rating>5</rating>
+    </food>
+    <food>
+        <name>Borscht</name>
+        <type>Soup</type>
+        <cuisine>Ukrainian</cuisine>
+        <rating>6</rating>
+    </food>
+</fav_food>

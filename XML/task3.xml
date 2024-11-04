@@ -1,0 +1,26 @@
+<drinks>
+    <drink type = "non-alcoholic" made_of="Nature">
+        <name>Water</name>
+        <healthy>True</healthy>
+        <origin>World</origin>
+        <rating>1</rating>
+    </drink>
+    <drink type = "non-alcoholic" made_of="Tea leaves">
+        <name>Tea</name>
+        <healthy>True</healthy>
+        <origin>China</origin>
+        <rating>2</rating>
+    </drink>
+    <drink type = "non-alcoholic" made_of="Carbonated water">
+        <name>Soda</name>
+        <healthy>False</healthy>
+        <origin>England</origin>
+        <rating>3</rating>
+    </drink>
+    <drink type = "alcoholic" made_of="Barley">
+        <name>Beer</name>
+        <healthy>False</healthy>
+        <origin>Germany</origin>
+        <rating>4</rating>
+    </drink>
+</drinks>
