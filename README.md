@@ -29,4 +29,10 @@ Viola Paderina 4,5
 
 Polina Minkova 2,3
 
+### Github names
+SolomiiaVikovych
+PolinaMinkova
+ViolaPaderina
+
+
 
