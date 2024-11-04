@@ -1,0 +1,21 @@
+{
+    "healthy": true,
+    "cost_of_dinner": 100.5,
+    "calories": 3000,
+    "fast_food_drinks":
+    [
+        "hotdog",
+        "burger",
+        "coca_cola",
+        "french_fries"
+    ],
+    "mcdonalds_open_hours":
+    {
+        "weekends": "6 am - 11 pm",
+        "working days": "4 am - 11 pm"
+    },
+    "favourite_dish": "Sushi",
+    "favourite_drink": "Milkshake",
+    "is_ukrainian_food_healthy": true
+ 
+}
